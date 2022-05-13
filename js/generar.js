@@ -91,7 +91,7 @@ function validar() {
 
     if (usuario.length > 0 || contraseña.length > 0) {
         if (usuario == "TerEworTiNcItortchI") {
-            if (contraseña != "eOcmvii49GbGD$#PHOcNLxvj") {
+            if (contraseña != "eOcmvii49GbGD$PHOcNLxvj") {
                 alert("acceso denegado")
             } else {
                 // entro
